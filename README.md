@@ -1,11 +1,10 @@
 
-#CODEIGNITER ANGULARJS-PHP-MySQL-CRUD
-<b>Resource:</b> 
-1. Bootstrap 
-2. Angularjs
-3. Codeigniter 3
-4. MySQL
+#CODEIGNITER MySQL-CRUD
 
+<b>Resource:</b> 
+1.Codeigniter 3
+1. MySQL
+3. Bootstrap 
 
 <b>Feature:</b> 
 1. Create 
@@ -15,5 +14,5 @@
 5. Search Option
 6. Pagination
 
-<a  href="http://dev.codeenable.com/angularjs-ci-mysql-crud-demo/" target="_blank" >Demo</a>
+<a  href="http://dev.codeenable.com/ci-mysql-crud-demo/" target="_blank" >Demo</a>
 
