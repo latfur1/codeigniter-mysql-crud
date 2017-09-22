@@ -2,8 +2,8 @@
 #CODEIGNITER MySQL-CRUD
 
 <b>Resource:</b> </br>
-1.Codeigniter 3
-1. MySQL
+1. Codeigniter 3
+2. MySQL
 3. Bootstrap 
 
 <b>Feature:</b> 
