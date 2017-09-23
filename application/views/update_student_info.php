@@ -58,7 +58,7 @@
               
   
   
-              <input type="submit" class="button button-green  pull-right"  value="Submit"/>
+              <input type="submit" class="button button-green  pull-right"  value="Update"/>
 </form> 
    
   
