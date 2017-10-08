@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="example_codeenable">
+<html  >
 
 <head>
  
-   <title ng-bind-template="Codeenable | {{title}}"></title>
+   <title ></title>
 
  
-  <meta charset="utf-8">
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-
+ <meta charset="UTF-8">
+  <meta name="description" content="Codeigniter mysql crud">
+  <meta name="keywords" content="Codeigniter mysql crud, PHP, MySQL HTML,CSS,JavaScript">
+  <meta name="author" content="Md. Rubel">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
