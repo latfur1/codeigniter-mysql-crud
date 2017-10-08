@@ -3,12 +3,12 @@
 
 <head>
  
-   <title ></title>
+   <title >Codeigniter MySQL MySQL</title>
 
  
  <meta charset="UTF-8">
-  <meta name="description" content="Codeigniter mysql crud">
-  <meta name="keywords" content="Codeigniter mysql crud, PHP, MySQL HTML,CSS,JavaScript">
+  <meta name="description" content="Codeigniter MySQL CRUD">
+  <meta name="keywords" content="Codeigniter MySQL CRUD, PHP, MySQL HTML,CSS,JavaScript">
   <meta name="author" content="Md. Rubel">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -34,8 +34,8 @@
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
-<!--                          <li> <img src="./assets/images/ce.png" alt="CE" class="tlogo"> </li>-->
-                        <li class="active"><a href="index.php">Home</a></li>
+<!--                         <li> <img src="./assets/images/ce.png" alt="CE" class="tlogo"> </li>-->
+                        <li class="active"><a href="<?php echo site_url(); ?>">Home</a></li>
                     </ul>
 
                 </div>
